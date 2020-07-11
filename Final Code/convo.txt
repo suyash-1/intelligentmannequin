@@ -1,0 +1,14 @@
+V\u000a\u000a
+Conversation 1 took place on 2018-08-01 at 12 hours.\u000a
+The number of interested people are : 1\u000a\u000a
+The conversation details are given below : \u000a
+Mannequin : 	Good Morning !! \u000a
+Mannequin : 	You can ask me anything about this dress, I will try my best to answer your question. \u000a
+Customer : 	I want to buy this dress\u000a
+Mannequin : 	I will place the order, kindly make the payment and collect your product from the counter. \u000a
+Mannequin : 	What is your name \u000a
+Customer : 	baby\u000a
+Mannequin : 	Please provide me with your contact details. \u000a
+Customer : 	9987 674 077\u000a
+p0
+.
